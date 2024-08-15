@@ -28,6 +28,7 @@ namespace POO.Classe_Object
             // Instanciando um novo objeto do tipo 'computador'
             Computador computador = new Computador();
 
+            // Metodo toString sobrescrito
             Console.WriteLine(computador.ToString());
 
         }

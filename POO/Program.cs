@@ -32,6 +32,7 @@ using POO.Classe_Abstrata;
 using POO.Classe_Object;
 using POO.Encapsulamento;
 using POO.Heranca;
+using POO.Interface;
 using POO.Polimorfismo;
 
 // 1. Abstração
@@ -53,4 +54,7 @@ using POO.Polimorfismo;
 // Não possui exemplo
 
 // 7. Classe Object
-ClasseObject.ExemploClasseObject();
+//ClasseObject.ExemploClasseObject();
+
+// 8. Interfaces
+InterfacesExemplo.ExemploInterface();
