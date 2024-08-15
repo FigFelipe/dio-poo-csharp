@@ -29,9 +29,13 @@
 
 using POO.Abstracao;
 using POO.Encapsulamento;
+using POO.Heranca;
 
 // 1. Abstração
 //Abstracao.ExemploAbstracao();
 
 // 2. Encapsulamento
-Encapsulamento.ExemploEncapsulamento();
+//Encapsulamento.ExemploEncapsulamento();
+
+// 3. Heranca
+Heranca.ExemploHeranca();
