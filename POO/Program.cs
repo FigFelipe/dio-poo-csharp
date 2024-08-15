@@ -30,6 +30,7 @@
 using POO.Abstracao;
 using POO.Encapsulamento;
 using POO.Heranca;
+using POO.Polimorfismo;
 
 // 1. Abstração
 //Abstracao.ExemploAbstracao();
@@ -38,4 +39,7 @@ using POO.Heranca;
 //Encapsulamento.ExemploEncapsulamento();
 
 // 3. Heranca
-Heranca.ExemploHeranca();
+//Heranca.ExemploHeranca();
+
+// 4. Polimorfismo
+Polimorfismo.ExemploPolimorfismo();
