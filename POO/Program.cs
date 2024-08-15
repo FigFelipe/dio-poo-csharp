@@ -28,6 +28,7 @@
  */
 
 using POO.Abstracao;
+using POO.Classe_Abstrata;
 using POO.Encapsulamento;
 using POO.Heranca;
 using POO.Polimorfismo;
@@ -42,4 +43,7 @@ using POO.Polimorfismo;
 //Heranca.ExemploHeranca();
 
 // 4. Polimorfismo
-Polimorfismo.ExemploPolimorfismo();
+//Polimorfismo.ExemploPolimorfismo();
+
+// 5. Classe Abstrata
+ClasseAbstrata.ExemploClasseAbstrata();
