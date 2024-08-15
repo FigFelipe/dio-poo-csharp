@@ -10,5 +10,11 @@ namespace POO.Classe_Selada.Models
     internal class Diretor : Professor
     {
         // Atributos
+
+        // Métodos
+        public override void Apresentar()
+        {
+            Console.WriteLine($"Diretor");
+        }
     }
 }

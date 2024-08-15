@@ -29,6 +29,7 @@
 
 using POO.Abstracao;
 using POO.Classe_Abstrata;
+using POO.Classe_Object;
 using POO.Encapsulamento;
 using POO.Heranca;
 using POO.Polimorfismo;
@@ -46,4 +47,10 @@ using POO.Polimorfismo;
 //Polimorfismo.ExemploPolimorfismo();
 
 // 5. Classe Abstrata
-ClasseAbstrata.ExemploClasseAbstrata();
+//ClasseAbstrata.ExemploClasseAbstrata();
+
+// 6. Classe Selada
+// Não possui exemplo
+
+// 7. Classe Object
+ClasseObject.ExemploClasseObject();

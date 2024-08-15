@@ -18,9 +18,5 @@ namespace POO.Classe_Selada
          * 
          */
 
-        public static void ExemploClasseSelada()
-        {
-
-        }
     }
 }

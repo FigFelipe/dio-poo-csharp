@@ -9,7 +9,7 @@ namespace POO.Classe_Selada.Models
 {
     // Sealed --> É a instancia final de uma herança,
     // não permite ter classes filhas
-    internal sealed class Professor : Pessoa
+    internal class Professor : Pessoa
     {
         // Atributos
         public decimal Salario { get; set; }
