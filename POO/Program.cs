@@ -28,6 +28,10 @@
  */
 
 using POO.Abstracao;
+using POO.Encapsulamento;
 
 // 1. Abstração
-Abstracao.ExemploAbstracao();
+//Abstracao.ExemploAbstracao();
+
+// 2. Encapsulamento
+Encapsulamento.ExemploEncapsulamento();
